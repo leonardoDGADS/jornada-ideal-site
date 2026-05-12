@@ -218,7 +218,7 @@ export default function App() {
             <div className="max-w-sm">
               <div className="flex items-center space-x-3 mb-8">
                 <img src="https://i.im.ge/2026/02/26/e301wy.WhatsApp-Image-2026-02-26-at-14-47-45.jpeg" alt="Logo" className="logo-img" />
-                <span className="text-2xl font-black uppercase tracking-tighter">Jornada <span className="font-light text-gray-400">Ideal</span></span>
+                <span className="text-2xl font-black uppercase tracking-tighter">Jornada <span className="font-light text-gray-400">Ideal agency</span></span>
               </div>
               <p className="text-gray-500 text-[11px] font-bold uppercase tracking-[0.2em] leading-loose">
                 Hub de performance e crescimento estratégico para negócios de alto nível. Focado em resultados reais e escala previsível.
