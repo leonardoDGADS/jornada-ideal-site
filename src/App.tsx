@@ -26,7 +26,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
           <div className="flex items-center space-x-3">
             <img src="https://i.im.ge/2026/02/26/e301wy.WhatsApp-Image-2026-02-26-at-14-47-45.jpeg" alt="Jornada Ideal Logo" className="logo-img" />
-            <span className="text-xl font-black tracking-tighter text-white uppercase">Jornada <span className="font-light">Ideal</span></span>
+            <span className="text-xl font-black tracking-tighter text-white uppercase">Jornada <span className="font-light">Ideal agency</span></span>
           </div>
           <div className="hidden md:flex items-center space-x-10 text-[11px] font-bold uppercase tracking-[0.2em]">
             <a href="#servicos" className="text-gray-400 hover:text-white transition">Serviços</a>
